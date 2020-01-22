@@ -9,7 +9,7 @@
 5. Go to the Fonts & Colors tab
 6. Select OutrunnerOne (Dark) from the Theme section on the left hand side of the window
 
-Note: You might have to restart Xcode to get it to show up if you did all of these steps while Xcode is open.
+  Note: You might have to restart Xcode to get it to show up if you did all of these steps while Xcode is open.
 
 ## Inspiration:
 
