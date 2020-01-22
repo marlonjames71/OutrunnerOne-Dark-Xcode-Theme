@@ -14,3 +14,7 @@ Note: You might have to restart Xcode to get it to show up if you did all of the
 ## Inspiration:
 
 This theme was inspired by Ayu for VS Code and Sublime. I really love this theme and wanted it for Xcode as that's where I do most of my work. You can find their repo here: [Ayu Theme for VS Code](https://github.com/dempfi/ayu)
+
+
+
+Made with ❤️ by [@marlonjames71](https://github.com/marlonjames71)
