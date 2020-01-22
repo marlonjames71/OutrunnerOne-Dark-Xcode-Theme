@@ -12,4 +12,4 @@ Note: You might have to restart Xcode to get it to show up if you did all of the
 
 ## Inspiration:
 
-This theme was inspired by Ayu for VS Code. You can find their repo here: (Ayu Theme for VS Code)[https://github.com/dempfi/ayu]
+This theme was inspired by Ayu for VS Code. You can find their repo here: [Ayu Theme for VS Code](https://github.com/dempfi/ayu)
