@@ -2,11 +2,12 @@
 
 ## Steps For Installing
 
-1. Navigate to `/Library/Developer/Xcode/UserData/FontAndColorThemes`
-2. Drag the OutrunnerOne (Dark).xccolortheme file into the FontAndColorThemes folder
-3. Open up Xcode and go to preferences (cmd + ,)
-4. Go to the Fonts & Colors tab
-5. Select OutrunnerOne (Dark) from the Theme section on the left hand side of the window
+1. Download or Clone Theme 
+2. Navigate to `/Library/Developer/Xcode/UserData/FontAndColorThemes`
+3. Drag the OutrunnerOne (Dark).xccolortheme file into the FontAndColorThemes folder
+4. Open up Xcode and go to preferences (cmd + ,)
+5. Go to the Fonts & Colors tab
+6. Select OutrunnerOne (Dark) from the Theme section on the left hand side of the window
 
 Note: You might have to restart Xcode to get it to show up if you did all of these steps while Xcode is open.
 
