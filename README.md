@@ -1,5 +1,7 @@
 # OutrunnerOne (Dark) - Theme for Xcode
 
+<img src="https://github.com/marlonjames71/OutrunnerOne-Dark-Xcode-Theme/blob/master/Screen%20Shot%202020-01-22%20at%205.59.53%20PM.png" width="700">
+
 ## Steps For Installing
 
 1. Download or Clone Theme 
